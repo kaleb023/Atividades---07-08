@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h1, h2 {
+    color: #333;
+ 
+}
+
+h2{
+    padding-top: 20px;
+    border-top: 1px solid black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+
+.borda{
+    padding-left: 15px;
+  padding-top: 30px;
+  border-top: 1px black solid;
+}
+
+li{
+    border-top: 15px;
+}
+
+.baixo{
+    padding-bottom: 35px;
+    
+}
+
+
+.titu{
+    padding-bottom: 25px;
+}
+
+.luff{
+    width: 10%;
+}
